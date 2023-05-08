@@ -8,7 +8,7 @@ This repository contains a minimal implementation of our method which uses a dou
 - 🧬 Genetic Programming is used to evolve a population of symbolic models, evaluated based on mean squared error on the training data. 
 - 🔄 The provided selection function `doubleLexicase` controls the bloat. 
 - 🏆 The performance of the proposed selection operator is compared with the traditional lexicase selection operator.
-## Results
+## Lightspots
 - 🚀 The double lexicase selection operator effectively controls bloat in symbolic regression / evolutionary feature construction for regression tasks.
 - 💪 Compared to the traditional method of setting a depth limit, our approach significantly reduces the sizes of constructed features across all datasets, while maintaining a similar level of predictive performance.
 - 🌟 The double lexicase selection operator achieves a good trade-off between model performance and model size.
