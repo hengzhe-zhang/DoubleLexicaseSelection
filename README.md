@@ -21,3 +21,13 @@ The code is written in Python and requires the following dependencies:
 ## Reference
 
 This code is based on the GECCO 2023 paper "A Double Lexicase Selection Operator for Bloat Control in Evolutionary Feature Construction for Regression". Please cite our paper if you find it helpful!
+
+```bibtex
+@inproceedings{zhang2023double,
+  title={A Double Lexicase Selection Operator for Bloat Control in Evolutionary Feature Construction for Regression},
+  author={Zhang, Hengzhe and Chen, Qi and Xue, Bing and Banzhaf, Wolfgang and Zhang, Mengjie},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages={1194--1202},
+  year={2023}
+}
+```
